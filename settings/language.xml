@@ -26,8 +26,8 @@
         <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
 
         <!-- welcome screen (leave blank to skip screen) -->
-        <item id="welcomeHead">Bienvenid@</item>
-        <item id="welcomeText">Este es un demo del Método Q. Basado en el estudio presentado en el artículo " Orellana, D., Hermida C., Hermida, M.A. (2020). ¿Cerca o lejos? Discursos y subjetividad en las relaciones entre el lugar de residencia y la movilidad. Revista EURE (En Prensa)".{br}{br}{b}** Importante **{/b}{br}Para este ejercicio necesitará todo el espeacio posible en la pantalla!{br}{br}De ser necesario, {b}MAXIMICE{/b} la pantalla, {b}{i}refresque{/i}{/b} esta página y haga click en "continuar" para comenzar el experimento.</item>
+        <item id="welcomeHead">Bienvenid@ al Experimento Q</item>
+        <item id="welcomeText">Este es un demo del Método Q. Basado en el estudio presentado en el artículo " Orellana, D., Hermida C., Hermida, M.A. (2020). ¿Cerca o lejos? Discursos y subjetividad en las relaciones entre el lugar de residencia y la movilidad. Revista EURE (En Prensa)".{br}{br}{b}** Importante **{/b}{br}Para este ejercicio necesitará todo el espacio posible en la pantalla!{br}{br}De ser necesario, maximice la ventana de su navegador y cargue nuevamente esta página. Haga click en "Continuar" para comenzar el experimento.</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
         <item id="loginHead">Codigo de Acceso</item>
@@ -44,7 +44,7 @@
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Paso 1 de 5</item>
-        <item id="step1Text">Organice las frases de forma rápida según su nivel de acuerdo, sin tomar demasiado tiempo para pensar (más adelanta podrá cambiar su decisión). Puede arrastrarlas con el ratón a cada montón o utilizar las teclas 1, 2 y 3.</item>
+        <item id="step1Text">Organice las frases de forma rápida según su nivel de acuerdo, sin tomar demasiado tiempo para pensar (más adelante podrá cambiar su decisión). Puede arrastrarlas con el ratón a cada montón o utilizar las teclas 1, 2 y 3.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
         <item id="step2Head">Paso 2 de 5</item>
