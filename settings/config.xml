@@ -16,7 +16,7 @@
      <item id="clearCachePassword">cleareqmobilecache</item>
      <!-- login with common password (leave blank if not required) -->
      <item id="loginPassword"></item>
-    <item id="partNameRequired">true</item>
+    <item id="partNameRequired"></item>
       <!-- Use login script -->
      <item id="useLogInScript">false</item>
       <!-- URL to individual login script(leave blank if not required) -->
