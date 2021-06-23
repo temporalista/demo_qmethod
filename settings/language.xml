@@ -27,7 +27,7 @@
 
         <!-- welcome screen (leave blank to skip screen) -->
         <item id="welcomeHead">Bienvenid@ al Experimento Q</item>
-        <item id="welcomeText">Este es un demo del Método Q. Basado en el estudio presentado en el artículo " Orellana, D., Hermida C., Hermida, M.A. (2020). ¿Cerca o lejos? Discursos y subjetividad en las relaciones entre el lugar de residencia y la movilidad. Revista EURE (En Prensa)".{br}{br}{b}** Importante **{/b}{br}Para este ejercicio necesitará todo el espacio posible en la pantalla!{br}{br}De ser necesario, maximice la ventana de su navegador y cargue nuevamente esta página. Haga click en "Continuar" para comenzar el experimento.</item>
+        <item id="welcomeText">Este es un demo del Método Q. Basado en el estudio presentado en el artículo " Orellana, D., Hermida C., Hermida, M.A. (2020). ¿Cerca o lejos? Discursos y subjetividad en las relaciones entre el lugar de residencia y la movilidad. Revista EURE (En Prensa)".{br}{br}{b}** Importante **{/b}{br}Para este ejercicio necesitará todo el espacio posible en su pantalla!{br}{br}De ser necesario, maximice la ventana de su navegador y cargue nuevamente esta página. Haga click en "Continuar" para comenzar el experimento.</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
         <item id="loginHead">Codigo de Acceso</item>

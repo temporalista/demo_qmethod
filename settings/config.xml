@@ -51,5 +51,5 @@
      <item id="submitUrlMethod">firebase</item>
   
      <!-- data transmission via email, user must have an e-mail programm like Outlook (leave blank if not required) -->
-     <item id="submitMail">yourdomain.com</item>
+     <item id="submitMail">llactalab.ucuenca.edu.ec</item>
    </config>
