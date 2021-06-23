@@ -26,11 +26,11 @@
         <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
 
         <!-- welcome screen (leave blank to skip screen) -->
-        <item id="welcomeHead">Bienvenid@ al Experimento Q</item>
-        <item id="welcomeText">Este es un demo del Método Q. Basado en el estudio presentado en el artículo " Orellana, D., Hermida C., Hermida, M.A. (2020). ¿Cerca o lejos? Discursos y subjetividad en las relaciones entre el lugar de residencia y la movilidad. Revista EURE (En Prensa)".{br}{br}{b}** Importante **{/b}{br}Para este ejercicio necesitará todo el espacio posible en su pantalla!{br}{br}De ser necesario, maximice la ventana de su navegador y cargue nuevamente esta página. Haga click en "Continuar" para comenzar el experimento.</item>
+        <item id="welcomeHead">Bienvenid@ al Experimento Q: Residencia y Movilidad</item>
+        <item id="welcomeText">Este experimento es una demostración del Método Q basado en el estudio {b}"Orellana, D., Hermida C., Hermida, M.A. (2021). ¿Cerca o lejos? Discursos y subjetividad en las relaciones entre el lugar de residencia y la movilidad. Revista EURE"{/b}.{br}{br}{b} Importante{/b}: Para este ejercicio necesitará todo el espacio posible en su pantalla!{br}{br}De ser necesario, maximice la ventana de su navegador y cargue nuevamente esta página. Haga click en "Continuar" para comenzar el experimento. {br}{br} Toda la información es anónima y no se recogen datos personales. Si desea más información puede encontrarnos en http://llactalab.ucuenca.edu.ec</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
-        <item id="loginHead">Codigo de Acceso</item>
+        <item id="loginHead">Código de Acceso</item>
         <item id="loginText">Por favor ingrese el código del estudio</item>
         <item id="loginFormHeader">Codigo de Acceso</item>
         <item id="loginPartIdText">Su nombre o ID</item>
@@ -40,35 +40,35 @@
 
         <!-- introduction (leave blank to skip popup) -->
         <item id="introHead">Introducción</item>
-        <item id="introText">Este experimento es un ejemplo para validar el Método Q. El experimento consiste en 5 pasos y toma aproximadamente 10 minutos.</item>
+        <item id="introText">Este experimento es un ejemplo demostrativo del Método Q relacionado a las preferencias sobre lugar de residencia y transporte. Usted organizará en dos pasos un grupo de frases en función de su nivel de acuerdo. El experimento toma aproximadamente 10 minutos.</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
-        <item id="step1Head">Paso 1 de 5</item>
-        <item id="step1Text">Organice las frases de forma rápida según su nivel de acuerdo, sin tomar demasiado tiempo para pensar (más adelante podrá cambiar su decisión). Puede arrastrarlas con el ratón a cada montón o utilizar las teclas 1, 2 y 3.</item>
+        <item id="step1Head">Paso 1</item>
+        <item id="step1Text">Organice las frases de forma rápida según si está de acuerdo o no. No se tome demasiado tiempo y use su primera impresión (en el siguiente paso podrá cambiar su decisión). Puede arrastrar las frases con el ratón al espacio correspondiente o utilizar las teclas 1, 2 y 3.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
-        <item id="step2Head">Paso 2 de 5</item>
-        <item id="step2Text">Tome las tarjetas del montón "Acuerdo" y organícelas en la parte derecha según su nivel de acuerdo (Aquellas con las que está más de acuerdo, van más a la derecha).{br}{br}Luego, organice las tarjetas del montón "Desacuerdo" y organícelas en la parte izquierda (Las de mayor desacuerdo coloquelas más a la izquierda. {br}{br} Finalmente organice las tarjetas del montín "neutral" en los espacios del centro. Si cambia de opinión sobre una frase, puede organizarla donde mejor represente su nivel de acuerdo o desacuerdo</item>
-        <item id="step2CondOfInstruc">Give condition of instruction here</item>
+        <item id="step2Head">Paso 2</item>
+        <item id="step2Text">Ahora organizará las tarjetas en los espacios según su nivel de acuerdo. Primero tome las tarjetas del grupo "Acuerdo" y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha).{br}{br}Luego, organice las tarjetas del grupo "Desacuerdo" y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. {br}{br} Finalmente organice las tarjetas del grupo "neutral" en los espacios del centro. Si cambia de opinión sobre una frase, puede organizarla donde mejor represente su nivel de acuerdo o desacuerdo.</item>
+        <item id="step2CondOfInstruc">Nivel de Acuerdo</item>
         <item id="step2TextSizeLabel">Text</item>
         
 
         <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
-        <item id="step3Head">Paso 3 de 5</item>
-        <item id="step3Text">Ahora que ha organizado todas las tarjetas, revise la distribución por última vez y si desea puede aún hacer cambios.</item>
-        <item id="step3CondOfInstruc">Give condition of instruction here</item>
+        <item id="step3Head">¡Perfecto!</item>
+        <item id="step3Text">Revise la distribución por última vez y si desea puede aún hacer cambios arrastrando las tarjetas con el ratón.</item>
+        <item id="step3CondOfInstruc">Nivel de Acuerdo</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
-        <item id="step4Head">Paso 4 de 5</item>
-        <item id="step4Text">Por favor explique por qué está en mayor acuerdo o desacuerdo con las siguientes tarjetas que quedaron en los extremos.</item>
+        <item id="step4Head">¡Excelente!</item>
+        <item id="step4Text">Estas son las frases con las que tuvo mayo acuerdo o desacuerdo. Para finalizar, por favor explique muy brevemente la razón por la que está de acuerdo (o en desacuerdo).</item>
 
         <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
         <item id="step5Head">Paso 5 de 5</item>
-        <item id="step5Text">Finalmente, complete la siguiente información acerca de usted.</item>
+        <item id="step5Text">Muchas gracias por su colaboración. Por favor cuéntenos un poco más acerca de usted (esta información será tratada con estricta confidencialidad).</item>
 
         <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
-        <item id="transferHead">Enviar datos</item>
+        <item id="transferHead">Enviar los datos</item>
         <item id="transferText">Usted ha terminado el experimento, por favor envíe sus datos</item>
-        <item id="transferFailed">El envío a fallado, por favor intente otra vez</item>
-        <item id="transferOk">Gracias por participar! Puede cerrar esta ventana.</item>   
+        <item id="transferFailed">El envío a fallado! por favor intente otra vez</item>
+        <item id="transferOk">¡Gracias por participar! Puede cerrar esta ventana.</item>   
    </language>
