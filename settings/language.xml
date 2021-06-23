@@ -50,7 +50,7 @@
         <!-- step2: sorting (leave blank to skip popup) -->
         <item id="step2Head">Paso 2</item>
         <item id="step2Text"> En este paso usted priorizará las frases del paso anterior según su nivel de acuerdo usando los espacios de la pirámide. Los extremos izquierdo y derecho representan los niveles más altos de acuerdo o desacuerdo, mientras que los espacios más centrales representan mayor neutralidad. Los colores son solamente orientativos y durante la priorización usted deberá contrastar unas frases con otras para determinar su posición{br}{br}
-		Primero tome las tarjetas del grupo "Acuerdo" y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha). Luego, organice las tarjetas del grupo "Desacuerdo" y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. Finalmente organice las tarjetas del grupo "Neutral" en los espacios del centro.{br}{br}
+		Primero tome las tarjetas del grupo "Acuerdo" y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha). Luego, organice las tarjetas del grupo "Desacuerdo" y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. Finalmente organice las tarjetas del grupo "Neutral" en los espacios de las columnas centrales.{br}{br}
 		Recuerde que usted puede cambiar las tarjetas a cualquier espacio de la pirámide, siempre y ciando representen su nivel de acuerdo.</item>
         <item id="step2CondOfInstruc">Nivel de Acuerdo</item>
         <item id="step2TextSizeLabel">Text</item>
