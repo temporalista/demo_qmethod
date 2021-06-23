@@ -25,9 +25,10 @@
         <item id="errorHead">Error!</item>
         <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
 
+
         <!-- welcome screen (leave blank to skip screen) -->
         <item id="welcomeHead">Bienvenid@ al Experimento Q: Residencia y Movilidad</item>
-        <item id="welcomeText">Este experimento es una demostración del Método Q basado en el estudio {b}"Orellana, D., Hermida C., Hermida, M.A. (2021). ¿Cerca o lejos? Discursos y subjetividad en las relaciones entre el lugar de residencia y la movilidad. Revista EURE"{/b}.{br}{br}{b} Importante{/b}: Para este ejercicio necesitará todo el espacio posible en su pantalla!{br}{br}De ser necesario, maximice la ventana de su navegador y cargue nuevamente esta página. Haga click en "Continuar" para comenzar el experimento. {br}{br} Toda la información es anónima y no se recogen datos personales. Si desea más información puede encontrarnos en http://llactalab.ucuenca.edu.ec</item>
+        <item id="welcomeText">Este experimento es una demostración del Método Q basado en el estudio "Orellana, D., Hermida C., Hermida, M.A. (2021). ¿Cerca o lejos? Discursos y subjetividad en las relaciones entre el lugar de residencia y la movilidad. Revista EURE" {b}(<a href="https://www.researchgate.net/publication/352461958_Cerca_o_lejos_Discursos_y_subjetividad_en_las_relaciones_entre_el_lugar_de_residencia_y_la_movilidad_Preprint" target="_blank">Ver el estudio</a>){/b}.{br}{br}{b} Importante{/b}: Para este ejercicio necesitará todo el espacio posible en su pantalla!{br}{br}De ser necesario, maximice la ventana de su navegador y cargue nuevamente esta página. Haga click en "Continuar" para comenzar el experimento. {br}{br} Toda la información es anónima y no se recogen datos personales. Si desea más información puede encontrarnos en http://llactalab.ucuenca.edu.ec</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
         <item id="loginHead">Código de Acceso</item>
@@ -48,14 +49,14 @@
 
         <!-- step2: sorting (leave blank to skip popup) -->
         <item id="step2Head">Paso 2</item>
-        <item id="step2Text">Ahora organizará las tarjetas en los espacios según su nivel de acuerdo. Primero tome las tarjetas del grupo "Acuerdo" y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha).{br}{br}Luego, organice las tarjetas del grupo "Desacuerdo" y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. {br}{br} Finalmente organice las tarjetas del grupo "neutral" en los espacios del centro. Si cambia de opinión sobre una frase, puede organizarla donde mejor represente su nivel de acuerdo o desacuerdo.</item>
+        <item id="step2Text">Ahora organizará las tarjetas en los espacios según su nivel de acuerdo. Solamente se puede colocar una tarjeta en cada recuadro. Primero tome las tarjetas del grupo "Acuerdo" y organícelas en la parte derecha según su nivel de acuerdo (aquellas con las que está más de acuerdo van más a la derecha).{br}{br}Luego, organice las tarjetas del grupo "Desacuerdo" y organícelas en la parte izquierda (las de mayor desacuerdo coloquelas más a la izquierda. {br}{br} Finalmente organice las tarjetas del grupo "neutral" en los espacios del centro. Si cambia de opinión sobre una frase, puede organizarla donde mejor represente su nivel de acuerdo o desacuerdo.</item>
         <item id="step2CondOfInstruc">Nivel de Acuerdo</item>
         <item id="step2TextSizeLabel">Text</item>
         
 
         <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
         <item id="step3Head">¡Perfecto!</item>
-        <item id="step3Text">Revise la distribución por última vez y si desea puede aún hacer cambios arrastrando las tarjetas con el ratón.</item>
+        <item id="step3Text">Revise la distribución por última vez y si desea puede aún hacer cambios arrastrando las tarjetas con el ratón. Antes de enviar, se recomienda hacer una captura de pantalla de su resultado y guardar el archivo.</item>
         <item id="step3CondOfInstruc">Nivel de Acuerdo</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
