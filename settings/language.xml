@@ -40,7 +40,7 @@
 
         <!-- introduction (leave blank to skip popup) -->
         <item id="introHead">Introducción</item>
-        <item id="introText">Este experimento es un ejemplo demostrativo del Método Q relacionado a las preferencias sobre lugar de residencia y transporte. Usted organizará en dos pasos un grupo de frases en función de su nivel de acuerdo. El experimento toma aproximadamente 10 minutos.</item>
+        <item id="introText">Este experimento es un ejemplo demostrativo del Método Q relacionado a las preferencias sobre lugar de residencia y transporte. Usted organizará en dos pasos un grupo de frases en función de su nivel de acuerdo. El experimento toma aproximadamente 7 minutos.</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
         <item id="step1Head">Paso 1</item>
